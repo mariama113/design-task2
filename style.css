@@ -1,0 +1,311 @@
+button {
+    position: relative;
+    left: 830px;
+    background-color: white;
+    border-color: white;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: none;
+    border-style: solid;
+    color: gray;
+    
+}
+.one {
+    position: relative;
+    left:110px;
+    top: 18px;
+}
+
+.two {
+    margin: 23px;
+    position: relative;
+    left: 130px;
+    text-decoration: none;
+    color: Gray;  
+}
+nav {
+    position: flex;
+    position: relative;
+    top: 25px;
+}
+.two:hover {
+    text-decoration: underline rgb(218, 60, 218);
+    text-underline-offset: 7px;
+    
+}
+
+.three {
+    position: relative;
+    margin-left: 140px;
+    margin-top: 200px;
+    font-size: 40px;
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+span {
+    color: #9505E3;
+}
+.four {
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    position: relative;
+    margin-left: 140px;
+    bottom: 20px;
+}
+.five {
+    position: relative;
+    height: 300px;
+}
+.sex {
+    position: absolute;
+    z-index: 1;
+    left: 720px;
+    width: 700px;
+    bottom: -30px;
+}
+.seven {
+    position: absolute;
+    z-index: 2;
+    left: 900px;
+    bottom: 180px;
+    width: 260px;
+
+}
+.eight {
+    position: absolute;
+    z-index: 3;
+    left: 750px;
+    bottom: 10px;
+    width: 500px;
+}
+.wave {
+    position: relative;
+    bottom: 150px;
+    width: 1400px;
+    left: -400px;
+}
+.nine {
+    position: absolute;
+    left: 400px;
+    width: 900px;
+    bottom: -300px;
+}
+.ten{
+    position: relative;
+}
+.eleven {
+    position: relative;
+}
+.twelve {
+    position: absolute;
+    left: 200px;
+    bottom: -70px;
+}
+.thirteen {
+    position: relative;
+}
+.fourteen {
+    position: absolute;
+    left: 700px;
+}
+.sixteen {
+    position: relative;
+    top: 250px;
+    left: 980px;
+}
+.ein {
+    position: absolute;
+    top: 80px;
+    left: 250px;
+    color: gray;
+}
+.ein1 {
+    position: absolute;
+    top: 110px;
+    left: 200px;
+    color:darkgray;
+}
+.zwei {
+    position: absolute;
+    top: 180px;
+    left: 740px;
+    color: gray;
+}
+.zwei1 {
+    position: absolute;
+    top: 210px;
+    left: 650px;
+    color:darkgray;
+}
+.drei {
+    position: absolute;
+    color: gray;
+    bottom: -700px;
+    left: 1120px;
+}
+.drei1 {
+    position: absolute;
+    color:darkgray;
+    bottom: -750px;
+    left: 1000px;
+}
+.twenty {
+    position: relative;
+}
+.twenty1 {
+    position: absolute;
+    left: 150px;
+    top: 100px;
+}
+.twenty2 {
+    position: absolute;
+    color: white;
+    left: 240px;
+    top: 205px;
+}
+.twenty3 {
+    position: absolute;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    left: 240px;
+    top: 190px;
+}
+.twenty4 {
+    position: relative;
+}
+.twenty5 {
+    position: absolute;
+    left: 200px;
+    top: 670px;
+    width: 200px;
+}
+.twenty6 {
+    position: absolute;
+    left: 500px;
+    top: 500px;
+}
+.twenty7 {
+    position: absolute;
+    left: 700px;
+    top: 700px;
+    left: 1150px;
+    width: 200px;
+}
+.esraa {
+    position: absolute;
+    top: 900px;
+    left: 450px;
+}
+.basmala {
+    position: absolute;
+    top: 900px;
+    left: 1100px;
+}
+.twenty8 {
+    position: relative;
+}
+.twenty9 {
+    position: absolute;
+    top: 980px;
+    left: 700px;
+    color: gray;
+    font-size: 22px;
+}
+.twenty10 {
+    position: absolute;
+    top: 1030px;
+    left: 700px;
+    color: darkgray;
+}
+.ten10 {
+    position: relative;
+}
+.ten11 {
+    position: absolute;
+    top: 1200px;
+    left: 780px;
+
+}
+.ten12 {
+    position: absolute;
+    top: 1500px;
+    left: 120px;
+}
+.ten13 {
+    position: absolute;
+    top: 1500px;
+    left: 170px;
+}
+.ten14 {
+    position: absolute;
+    top: 1500px;
+    left: 230px;
+}
+body {
+    background-image: url("Group 1131.png");
+    background-position: -100px 2160px ;
+    background-repeat: no-repeat;
+    background-size: 1800px;
+    margin: 0;
+}
+.ten19 {
+    position: relative;
+}
+
+.ten15 {
+    margin: 23px;
+    position: relative;
+    text-decoration: none;
+    color: Gray;
+    top: 1560px;  
+    left: 100px;
+    color: white;
+}
+.first {
+    background-image: url("blue_bg.png");
+    background-repeat: no-repeat;
+    background-size: 1540px;
+    background-position: -5px -130px;
+}
+.mohamed {
+    position: relative;
+}
+.ahmed {
+    position: absolute;
+    top: 1400px;
+    height: 50px;
+    left: 300px;
+}
+.adham {
+    position: absolute;
+    top: 1410px;
+    left: 310px;
+}
+.cc {
+    position: absolute;
+    top: 1400px;
+    left: 350px;
+}
+.mohamed1 {
+    position: relative;
+}
+.ahmed1 {
+    position: absolute;
+    top: 1400px;
+    height: 50px;
+    left: 100px;
+}
+.adham1 {
+    position: absolute;
+    top: 1410px;
+    left: 110px;
+}
+.cc1 {
+    position: absolute;
+    top: 1400px;
+    left: 150px;
+}
+
+
